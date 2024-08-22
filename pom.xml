@@ -110,10 +110,8 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin><!--# Changes for Software Composition Analysis Scan using Snyk
-#By ASecurityGuru
-#5/12/2022 11:14 AM IST
--->
+			</plugin>
+<!--# Changes for Software Composition Analysis Scan using Snyk #By ASecurityGuru #5/12/2022 11:14 AM IST -->
     <plugin>
       <groupId>io.snyk</groupId>
       <artifactId>snyk-maven-plugin</artifactId>
